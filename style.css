@@ -1,0 +1,289 @@
+/*CSS reset settings here*/
+
+#wrapper{
+    height: 800px;
+    width: 970px;
+    background: radial-gradient(#265175, #3571A3);
+    margin: auto;
+   }
+   #image{
+    margin-left: 20px;
+    display: inline;
+   }
+   #search{
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 700px;
+    margin-top: -110px;
+    width: 253px;
+    background-color: #444444;
+    border-right: 2px solid black;
+    border-bottom: 1px solid black;
+   }
+   #buttonOptions{
+    height: 40px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 6px;
+    margin-left: 70px;
+    margin-top: 40px;
+    width: 853px;
+    background-color: #4A80AB;
+    display: inline-block;
+    
+   }
+   .about{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -12px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: white;
+   }
+   .downloads{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -12px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: white;
+   }
+   .documentation{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -12px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: white;
+   }
+   .community{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -12px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: white;
+   }
+   .news{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -12px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: white;
+   }
+   .events{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -12px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: white;
+   }
+   #searchBox{
+       height: 23px;
+       text-align: center;
+       margin-left: 50px;
+       margin-top: 8px;
+       border: 2px solid grey;
+   }
+   #buttonGo{
+       border-radius: 6px;
+       height: 24px;
+       width: 39px;
+       text-align: center;
+       margin-left: 190px;
+       border-top: 2px solid #C0C0C0;
+       border-left: 2px solid #C0C0C0;
+       border-right: 2px solid #6C6C6C;
+       border-bottom: 2px solid #6C6C6C;
+       margin-top: -29px;
+       background-color: #265175;
+   }
+   #goBut{
+       margin-top: 5px;
+       font-size: 13px;
+       color: white;
+   }
+   #textSize{
+       position: relative;
+       top: -100px;
+       font-size: small;
+       color: white;
+       left: 800px;
+
+   }
+   #list{
+       display: table;
+       color: white;
+       line-height: 170%;
+       margin-left: 60px;
+       font-family: sans-serif;
+       font-weight: 300;
+       font-size: medium;
+       list-style-position: inside;
+       text-align: center;
+
+   }
+   .abt{
+       margin-left: 270px;
+       margin-top: -200px;
+       color: white;
+       font-size: 14px;
+       text-indent: 10px;
+       font-family: sans-serif;
+       font-weight: 300;
+       text-align: center;
+       
+   }
+   .quote{
+       margin-left: 250px;
+       line-height: 170%;
+       margin-top: -4px;
+       font-size: 18px;
+       list-style: none;
+       font-family: sans-serif; 
+       font-style: oblique;
+       text-align: center;
+       font-weight: 300;
+       color: #FFD343;
+
+   }
+   #zen{
+       color: white;
+       margin-left: 570px;
+       font-size: 16px;
+       font-weight: 300;
+       font-family: sans-serif;
+       margin-top: -6px;
+   }
+   #botInfo{
+       border-top: 2px solid black;
+       height: 220px;
+       width: 970px;
+       background-color: white;
+   }
+   .gStart{
+       height: 4px;
+       margin-left: 70px;
+       margin-top: 10px;
+       width: 390px;
+       background-color: #75A8D3;
+       display: inline-block;
+   }
+    .gStartTitle{
+       text-align: center;
+       margin-top: 7px;
+       font-size: 18px;
+       font-family: sans-serif;
+       font-weight: 300;
+   }
+    .gStartInfo{
+        font-size: 14px;
+        text-align: center;
+        margin-top: -11px;
+        margin-left: -20px;
+        font-weight: 200;
+        font-family: sans-serif;
+    }
+    .gStartList{
+       display: table;
+       color: black;
+       line-height: 140%;
+       font-family: sans-serif;
+       font-size: 15px;
+       margin-top: -12px;
+       font-weight: 300;
+       list-style-type: square;
+       text-align: center;
+    }
+    .appBar{
+       height: 4px;
+       margin-left: 40px;
+       margin-top: 10px;
+       position: relative;
+       top: -15px;
+       width: 390px;
+       background-color: #75A8D3;
+       display: inline-block;
+    }
+    .appTitle{
+       text-align: center;
+       margin-top: 7px;
+       font-size: 18px;
+       font-family: sans-serif;
+       font-weight: 300;
+    }
+    .appInfo{
+        font-size: 14px;
+        text-align: center;
+        margin-top: -11px;
+        margin-left: -20px;
+        font-weight: 200;
+        font-family: sans-serif; 
+    }
+    .appList{
+       display: table;
+       color: black;
+       line-height: 140%;
+       font-family: sans-serif;
+       font-size: 15px;
+       margin-top: -12px;
+       font-weight: 300;
+       list-style-type: square;
+       text-align: center;
+    }
+    .help{
+        display: inline-block;
+        color: #88B9E2;
+        font-family: sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        text-align: center;
+        margin-left: 200px;
+        margin-top: 60px;
+    }
+    .diversity{
+        display: inline-block;
+        color: #88B9E2;
+        margin-left: 60px;
+        font-family: sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        text-align: center;
+    }
+    .submit{
+        display: inline-block;
+        color: #88B9E2;
+        margin-left: 60px;
+        font-family: sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        text-align: center;
+    }
+    .copyright{
+        color: #88B9E2;
+        margin-left: 60px;
+        font-family: sans-serif;
+        font-weight: 300;
+        font-size: 10px;
+        text-align: center;
+    }
+    .gStartList li{
+        color: #88B9E2;
+    }
+    .appList li{
+        color: #88B9E2;
+    }
